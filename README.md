@@ -1,5 +1,5 @@
 # Week 1 - The beginning
-I started the assignment by just diving into the code. This didn't work for me, because I didn't knew what I really wanted. I grabbed sheets op paper and started making designs. At first I was stuck making basic designs, which weren't really pretty. That's when I made multiple designs, which I normally would never make.
+I started the assignment by just diving into the code. This didn't work for me, because I didn't knew what I really wanted. I grabbed sheets op paper and started making designs. At first I was stuck making basic designs, which weren't really pretty. That's when I made multiple designs, which I normally would never make. I went with the design where the nav is on the left. I started making a basic set up.
 
 ![First design][week1design1]
 ![Third design][week1design3]
