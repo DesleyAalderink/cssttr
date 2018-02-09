@@ -2,8 +2,8 @@
 I started the assignment by just diving into the code. This didn't work for me, because I didn't knew what I really wanted. I grabbed sheets op paper and started making designs. At first I was stuck making basic designs, which weren't really pretty. That's when I made multiple designs, which I normally would never make.
 
 ![First design][week1design1]
-![Secondond design][week1design2]
 ![Third design][week1design3]
+![Secondond design][week1design2]
 
 
 ## CSS grid
