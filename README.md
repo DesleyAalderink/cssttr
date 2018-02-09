@@ -18,3 +18,7 @@ unfortunately, I started getting sick on thursday. I started losing focus on aro
 [week1design2]: week1design2.jpg
 [week1design3]: week1design3.jpg
 [week1videonote1]: week1videonote1.jpg
+
+## Sources
+* [Grid garden](http://cssgridgarden.com/)
+* [Tutorial CSS grid](https://www.youtube.com/watch?v=HgwCeNVPlo0)
