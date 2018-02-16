@@ -14,6 +14,9 @@ For the assignment we needed to use CSS grid. I went online and started doing "C
 ## Sick...
 unfortunately, I started getting sick on thursday. I started losing focus on around 14:00. I couldn't focus of think because of a headache and I started to feel dizzy. I didn't really got any progress on that day. I want to work on this assignment in the weekend to make up for lost time.
 
+# Week 2 - started from the bottom and we're still there...
+Because of my ongoing sickness I didn't got any work done. I'm really begind. I also started from scratch, just to play with css grid. I will keep trying. Giving up is for losers.
+
 [week1design1]: week1design1.jpg
 [week1design2]: week1design2.jpg
 [week1design3]: week1design3.jpg
@@ -22,3 +25,4 @@ unfortunately, I started getting sick on thursday. I started losing focus on aro
 ## Sources
 * [Grid garden](http://cssgridgarden.com/)
 * [Tutorial CSS grid](https://www.youtube.com/watch?v=HgwCeNVPlo0)
+ 
