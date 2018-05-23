@@ -22,7 +22,27 @@ Because of my ongoing sickness I didn't got any work done. I'm really begind. I 
 [week1design3]: week1design3.jpg
 [week1videonote1]: week1videonote1.jpg
 
+
+# Retry
+I took the website I made for Webdesign and decided to use this for my CSSTTR retry. The people I'm focusing on with this project on people who are disabled. The original project was made for Larissa, she was blind. But the website is accessible for people who are:
+
+* Deaf
+* Spastic
+* Blind
+
+The first main thing I needed to do was change all my classes and ID's. My website needed to be semantic. Calling everything in the CSS was not that difficult.
+I used a lot of "nth-child" and other CSS selectors to call every object.
+I made the side more friendly by adding A LOT of ":hover" and ":focus" states. I also changed the mouse to a real mouse. Seems fitting for my concept.
+I made a custom checkbox in the style of my website so it doesn't look bland. I made the website responsive so it looks good on mobile phones as well.
+This is important for the user case I have for my site. I also made the hitbox bigger for the "a href" for mobile phone. This is more easy to use.
+The last button on the website is a button that "doesn't work". I made this button blurry together with the text "deze knop doet het niet" to give the user
+the implication that the button doesn't work. If however, the user does click the button it will repeatedly show a random background color. I like it.
+
+# Conclusion
+I learned a lot from CSSTTR. I like CSS a lot, so I worked with a lot of fun. I learned new CSS selectors and made a website I'm really proud of. In the future I want to continue working in this style, because its like a puzzle.
+
+
 ## Sources
 * [Grid garden](http://cssgridgarden.com/)
 * [Tutorial CSS grid](https://www.youtube.com/watch?v=HgwCeNVPlo0)
- 
+* [Revenge CSS](http://heydonworks.com/revenge_css_bookmarklet/)
