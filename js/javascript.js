@@ -19,14 +19,6 @@ setInterval(function() {
   toggletext()
 }, 3000);
 
-document.querySelectorAll('button')[1].addEventListener("click", function(e){
-  e.preventDefault()
-})
-
-document.querySelectorAll('button')[2].addEventListener("click", function(e){
-  e.preventDefault()
-})
-
 document.querySelectorAll('button')[2].addEventListener("click", function(){
   bgchange();
 })
